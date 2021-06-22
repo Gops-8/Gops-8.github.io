@@ -96,6 +96,7 @@ input, select, textarea {
 			-ms-transition: none !important;
 			transition: none !important;
 		}
+		
 
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
@@ -1961,10 +1962,10 @@ input, select, textarea {
 			font-style: normal;
 			font-variant: normal;
 			text-rendering: auto;
-			line-height: 1;
+			line-height: 3;
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
-			font-weight: 400;
+			font-weight: 500;
 		}
 
 		.icon:before {
@@ -1986,7 +1987,7 @@ input, select, textarea {
 		.icon.featured {
 			color: #EA8A95;
 			display: block;
-			margin: 0 0 1.5em 0;
+			margin: 0 0 6em 0;
 			cursor: default;
 		}
 
@@ -2394,6 +2395,7 @@ input, select, textarea {
 				padding: 3em 0;
 				text-align: center;
 			}
+			
 
 		/* Nav */
 
@@ -2453,3 +2455,5 @@ input, select, textarea {
 					}
 
 	}
+
+	
