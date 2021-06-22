@@ -1722,6 +1722,16 @@ input, select, textarea {
 		input[type="button"].alt,
 		input[type="submit"].alt,
 		input[type="reset"].alt,
+		button.small,
+		.button.small {
+			font-size: 0.7em;
+			letter-spacing: -0.025em;
+		}
+
+		input[type="button"].alt,
+		input[type="submit"].alt,
+		input[type="reset"].alt,
+		
 		button.alt,
 		.button.alt {
 			background-color: #444;
